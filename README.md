@@ -1,2 +1,2 @@
 # Super Mario Bros 3 Unity Edition
- This is a mario bros game remake with online multiplay I'm working on in unity
+ This is a mario bros game remake with online multiplay I'm working on in unity. It is an exact copy of the game except for a few key changes. There is online multiplayer with race mode. The players will race each other to the finish in a trails style race(players don't interact with each others levels). The player to win the most levels in a world wins the world. The second change is it is using an HD graphics pack  
