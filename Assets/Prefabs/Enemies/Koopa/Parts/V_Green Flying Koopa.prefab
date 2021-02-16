@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5534954723455077742
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1446209810051729408, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4c0d9ce06202eb74eb1d0556971c2083, type: 2}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729410, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446209810051729411, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3605627574346814734, guid: b15f2aa11337b8244abd1a15f404a063,
+        type: 3}
+    - target: {fileID: 1446209810051729422, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_Name
+      value: V_Green Flying Koopa
+      objectReference: {fileID: 0}
+    - target: {fileID: 7506112057103817188, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200253364770214542, guid: ed73bb2993721a64dbd452e1ec42f620,
+        type: 3}
+      propertyPath: canWalkOffEdges
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed73bb2993721a64dbd452e1ec42f620, type: 3}
